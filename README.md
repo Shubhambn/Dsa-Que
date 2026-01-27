@@ -65,30 +65,36 @@ For every problem, I follow this process:
 ---
 
 ## 📂 Repository Structure
-
-DSA/
-├── Time_and_Space_Complexity/
-│ ├── basics.md
-│ └── examples.js
+```bash
+📦 DSA/
+├── 🧠 Time_and_Space_Complexity/
+│   ├── 📄 basics.md
+│   └── 💻 examples.js
 │
-├── Arrays/
-│ ├── brute_force/
-│ ├── sliding_window/
-│ ├── two_pointers/
-│ └── notes.md
+├── 📊 Arrays/
+│   ├── 🪓 brute_force/
+│   ├── 🪟 sliding_window/
+│   ├── 👉 two_pointers/
+│   └── 📝 notes.md
 │
-├── Strings/
-├── Hashing/
-├── Linked_List/
-├── Stack_and_Queue/
-├── Binary_Search/
-├── Recursion_and_Backtracking/
-├── Trees/
-├── Heaps/
+├── 🔤 Strings/
 │
-└── README.md
-
-
+├── 🧮 Hashing/
+│
+├── 🔗 Linked_List/
+│
+├── 📚 Stack_and_Queue/
+│
+├── 🔍 Binary_Search/
+│
+├── 🔁 Recursion_and_Backtracking/
+│
+├── 🌳 Trees/
+│
+├── 🧱 Heaps/
+│
+└── 📘 README.md
+```
 
 Each folder may contain:
 - Problem statements
