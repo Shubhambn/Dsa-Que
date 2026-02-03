@@ -79,7 +79,7 @@ for i = 0 to n-1:
         maxSum = max(maxSum, sum)
 
 return maxSum
-
+```
 
 ## 🔄 What Changed?
 
