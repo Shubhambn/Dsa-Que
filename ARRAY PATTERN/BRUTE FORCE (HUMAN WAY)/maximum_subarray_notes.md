@@ -112,3 +112,6 @@ You have now:
 ✅ Seen how thinking becomes code
 
 That is progress, even if it didn’t feel exciting.
+
+But A Question , is it the best Way to Get Ans?
+[Optimized Brute Force](./Optimized_Brute_Force.md) | Improve brute force using constraints |
